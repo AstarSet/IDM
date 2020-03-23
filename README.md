@@ -65,7 +65,7 @@ git clone https://github.com/LordRalInc/IDM.git
 ```bash
 cp IDM/database.json database.json
 rm -rf IDM
-git clone https://github.com/LordRalInc/IDM.git
+git clone https://github.com/AstarSet/IDM.git
 cp database.json IDM/database.json
 ```
 
