@@ -109,12 +109,12 @@ cp database.json IDM/database.json
 
 Спасибо за помощь в тестировании:
 
-[Ридэль Яумбаев](https://vk.com/ss_20)
+[Данил Борисов](https://vk.com/the_tusk)
 
-[Влад Богданов](https://vk.com/gamtz)
+[Данил Борисов](https://vk.com/the_tusk)
 
-[Владислав Джениа](https://vk.com/klubnishhhka)
+[Данил Борисов](https://vk.com/the_tusk)
 
-[Димитрий Ким](https://vk.com/iris_wolf)
+[Данил Борисов](https://vk.com/the_tusk)
 
 
