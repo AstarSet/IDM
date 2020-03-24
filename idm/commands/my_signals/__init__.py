@@ -1,5 +1,7 @@
 from .auto_friends_add import check_afa, off_afa, on_afa
 from .delete_self_message import delete_self_message
+from .delete_self_message1 import delete_self_message
+from .delete_self_message2 import delete_self_message
 from .friends import add_to_fr, remove_from_fr
 from .info import info
 from .online import check_online, off_online, on_online
