@@ -1,4 +1,4 @@
-# IDM - Iris Duty Manager [upgraded by Danil Borisov]
+# IDM - Iris Duty Manager 
 
 ## Содержание
 1. [Вступление](https://github.com/LordRalInc/IDM#Вступление)
